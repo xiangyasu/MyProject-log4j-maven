@@ -1,0 +1,2 @@
+2019-09-15 18:11:38 [ com.susu.LogTest.pirintLog(LogTest.java:25) ] - [ ERROR ] 我是error信息
+2019-09-15 18:11:38 [ com.susu.LogTest.pirintLog(LogTest.java:26) ] - [ FATAL ] 我是fatal信息
